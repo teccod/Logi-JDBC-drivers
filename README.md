@@ -1,1 +1,0 @@
-# Logi-JDBC-drivers
